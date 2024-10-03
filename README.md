@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there! I hope you're all doing well. I'm Om, a hard working tech and car enthusiast who's going to start on a new project. I'll currently be working on a statistics website related to one of the many I play if I have free time, world of warships. While I have not sorted out the finer details yet I'm sure I will have an eta on what the final version would look like.
+
+If you'd like to reach out, you can find me here on Linkedln:
+https://www.linkedin.com/in/om-m/
 
 <!--
 **Om-Mistry/Om-Mistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
